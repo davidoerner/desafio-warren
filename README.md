@@ -2,9 +2,10 @@
 
 Projeto desenvolvido para o processo seletivo da Warren e ProWay!
 
-C# + .NET6.0
+Utiliza C# + .NET6.0
 
-Conta com um menu onde você pode escolher qual dos desafios você deseja abrir.
+Clone ou baixe o projeto e execute-o na sua IDE de preferência (eu utilizo o Visua Studio 2022). Assim que o programa for executado ira abrir um menu onde você pode escolher o desafio desejado. 
+
 ##
 Desafio 01 - Alguns números inteiros positivos n possuem uma propriedade na qual a soma de n + reverso(n) resultam em números ímpares. Por exemplo, 36 + 63 = 99 e 409 + 904 = 1313. Considere que n ou reverso(n) não podem começar com 0.
 
