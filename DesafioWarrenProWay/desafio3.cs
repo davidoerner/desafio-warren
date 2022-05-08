@@ -4,7 +4,6 @@
     {
         public static int valorMin = 0;
         public static int valorAntigo = int.MaxValue;
-
         public void Desafio3()
         {
             Console.Write("Digite o valor que sera objeto de soma: ");

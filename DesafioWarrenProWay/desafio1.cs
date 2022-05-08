@@ -17,6 +17,7 @@ namespace DesafioWarrenProWay
                 numeroReverso.Append(sNumero[idx]);
             
             return Int32.Parse(numeroReverso.ToString());
+
         }
         public void Desafio1()
         {

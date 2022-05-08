@@ -17,6 +17,7 @@
             int normal = 0;
 
             for (int i = 0; i < tamTurma; i++)
+
             {
                 Console.Write("Informe o tempo de chegada do aluno: ");
                 int.TryParse(Console.ReadLine(), out tempoChegada);

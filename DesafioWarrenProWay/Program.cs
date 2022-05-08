@@ -6,7 +6,6 @@
         {
             Menu();
         }
-
         public static void Menu()
         {
             Console.WriteLine("1 - Desafio 1");
